@@ -10,7 +10,7 @@ A full-stack web app built using **Lovable.dev** that accelerates idea validatio
 - **Frontend:** React, Vite, Tailwind CSS  
 - **Backend:** Supabase (PostgreSQL, Auth, Storage, Edge Functions)  
 - **Infrastructure:** GitHub-connected codebase, deployable and extensible outside Lovable  
-:contentReference[oaicite:0]{index=0}
+:contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -25,4 +25,17 @@ A full-stack web app built using **Lovable.dev** that accelerates idea validatio
 
 ---
 
-## 🔍 Why “30
+## 🔍 Why “30‑Days‑Hustle”?
+
+Inspired by founders who built and tested 30 different MVPs in 30 days to find product-market fit, *30‑Days‑Hustle* is a fast MVP for validating app ideas quickly.:contentReference[oaicite:2]{index=2}
+
+---
+
+## 📦 Getting Started
+
+### Local Setup
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your_username/30‑Days‑Hustle.git
+   cd 30‑Days‑Hustle
